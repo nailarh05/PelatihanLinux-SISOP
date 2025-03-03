@@ -15,7 +15,7 @@
    ```
    cd singing_tutorials/ && ls -la
    ```
-   5.a
+ 5. 
    ```
    ```
    6.a
